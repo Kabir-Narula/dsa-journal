@@ -1,0 +1,39 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "DSA: Run Current Python File",
+      "type": "shell",
+      "command": "python \"${file}\"",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "clear": true
+      }
+    },
+    {
+      "label": "DSA: Check Due Redos Today",
+      "type": "shell",
+      "command": "python scripts/tracker_cli.py due",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "clear": true
+      }
+    },
+    {
+      "label": "DSA: Sunday Review Stats",
+      "type": "shell",
+      "command": "python scripts/tracker_cli.py stats",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "clear": true
+      }
+    }
+  ]
+}
