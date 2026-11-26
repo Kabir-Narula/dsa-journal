@@ -15,6 +15,7 @@ Use `python scripts/new_problem.py scratch "<Structure Name>"` to start a fresh 
 - [ ] Singly Linked List (NeetCode Core Skills)
 
 ### Week 2
+- [ ] Read/write pointer in-place edit (remove all occurrences of one value from a list)
 - [ ] Valid-parentheses checker using a `list` as a stack
 - [ ] Monotonic stack hand-trace (`[73, 74, 75, 71, 69, 72, 76, 73]`)
 - [ ] Double-ended Queue / Deque (NeetCode Core Skills)

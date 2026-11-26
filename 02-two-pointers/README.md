@@ -7,6 +7,9 @@
 - Palindrome check -> pointers from both ends
 - In-place compaction / deduplication -> slow/fast read-write pointers
 
+## Build From Scratch (`from-scratch/`)
+- [ ] Read/write pointer in-place edit (remove all occurrences of a target value from a list)
+
 ## NeetCode 150 Problems (5)
 - [ ] Valid Palindrome *(Easy)*
 - [ ] Two Sum II - Input Array Is Sorted *(Medium)*

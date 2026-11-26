@@ -32,10 +32,12 @@ Check off each item as you master it. Mark a problem `[x]` once solved cleanly (
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
 - [ ] Longest Consecutive Sequence
+- [ ] Contains Duplicate II *(Fri Dec 4 warm-up)*
+- [ ] Intersection of Two Arrays *(Fri Dec 4 warm-up)*
 - [ ] **Saturday Transfer Test (45 min):** Majority Element, Subarray Sum Equals K
 
 ### Week 2 (Dec 7 – Dec 13): Two Pointers & Stack
-- [ ] From Scratch: Valid-parentheses checker, Monotonic stack trace, Double-ended Queue
+- [ ] From Scratch: Read/write pointer in-place remove, Valid-parentheses checker, Monotonic stack trace, Double-ended Queue
 - **Two Pointers (5)**
   - [ ] Valid Palindrome
   - [ ] Two Sum II - Input Array Is Sorted

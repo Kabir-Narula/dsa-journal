@@ -13,7 +13,7 @@
 - [ ] Tiny Hash Map using chaining (list of buckets)
 - [ ] Design Dynamic Array & Design Singly Linked List (NeetCode Core Skills)
 
-## NeetCode 150 Problems (9)
+## NeetCode 150 Problems (9) + Friday Warm-Up (2)
 - [ ] Contains Duplicate *(Easy)*
 - [ ] Valid Anagram *(Easy)*
 - [ ] Two Sum *(Easy)*
@@ -23,6 +23,8 @@
 - [ ] Valid Sudoku *(Medium)*
 - [ ] Encode and Decode Strings *(Medium)*
 - [ ] Longest Consecutive Sequence *(Medium)*
+- [ ] Contains Duplicate II *(Easy — Fri Dec 4 warm-up)*
+- [ ] Intersection of Two Arrays *(Easy — Fri Dec 4 warm-up)*
 
 ## Saturday Transfer Test (45 min total, unseen)
 - [ ] Majority Element

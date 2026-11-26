@@ -16,8 +16,9 @@ env/
 Thumbs.db
 desktop.ini
 
-# Personal / non-public notes (e.g. behavioral drafts, job applications, mock recordings)
+# Personal / non-public notes (e.g. behavioral drafts, job applications, mock recordings, roadmap PDF)
 private/
+*.pdf
 *.mp4
 *.mov
 *.m4a
